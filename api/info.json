@@ -1,0 +1,56 @@
+{
+    "info": {
+        "posts": [
+            {
+                "title": "Test Title 1",
+                "description": "Description Test 1",
+                "date": "20/06/2023 - 15:14",
+                "hasIcon": false,
+                "iconUrl": "",
+                "moreInfo": true,
+                "extra": [
+                    {
+                        "title": "Test Title 1",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "news": {
+        "posts": [
+            {
+                "title": "Test Title 1",
+                "description": "Description Test 1",
+                "date": "20/06/2023 - 15:14",
+                "hasIcon": false,
+                "iconUrl": "",
+                "moreInfo": true,
+                "extra": [
+                    {
+                        "title": "Test Title 1",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "rules": {
+        "posts": [
+            {
+                "title": "Test Title 1",
+                "description": "Description Test 1",
+                "date": "20/06/2023 - 15:14",
+                "hasIcon": false,
+                "iconUrl": "",
+                "moreInfo": true,
+                "extra": [
+                    {
+                        "title": "Test Title 1",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
