@@ -46,6 +46,10 @@
                         "text":""
                     },
                     {
+                        "type":"author",
+                        "text":"Disturbia"
+                    }
+                    {
                         "type":"date",
                         "text":"21/06/2023"
                     }
