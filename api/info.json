@@ -2,16 +2,31 @@
     "info": {
         "posts": [
             {
-                "title": "Test Title 1",
-                "description": "Description Test 1",
-                "date": "20/06/2023 - 15:14",
-                "hasIcon": false,
-                "iconUrl": "",
-                "moreInfo": true,
-                "extra": [
+                [
                     {
-                        "title": "Test Title 1",
-                        "description": ""
+                        "title": "IGNAUGURACIÓN",
+                        "postContent": [
+                            {
+                                "type":"stitle",
+                                "text":"FECHA Y HORA"
+                            },
+                            {
+                                "type":"description",
+                                "text":"30/06/2023 - 12:00 Hora española"
+                            },
+                            {
+                                "type":"description",
+                                "text":"30/06/2023 - 12:00 Hora española"
+                            },
+                            {
+                                "type":"space",
+                                "text":""
+                            },
+                            {
+                                "type":"date",
+                                "text":"21/06/2023"
+                            }
+                        ]
                     }
                 ]
             }
