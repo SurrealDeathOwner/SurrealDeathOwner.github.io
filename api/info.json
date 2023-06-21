@@ -25,6 +25,31 @@
                         "text":"21/06/2023"
                     }
                 ]
+            },
+            {
+                "title": "IGNAUGURACIÓN",
+                "postContent": [
+                    {
+                        "type":"stitle",
+                        "text":"FECHA Y HORA"
+                    },
+                    {
+                        "type":"description",
+                        "text":"30/06/2023 - 12:00 Hora española"
+                    },
+                    {
+                        "type":"description",
+                        "text":"30/06/2023 - 12:00 Hora española"
+                    },
+                    {
+                        "type":"space",
+                        "text":""
+                    },
+                    {
+                        "type":"date",
+                        "text":"21/06/2023"
+                    }
+                ]
             }
         ]
     }
